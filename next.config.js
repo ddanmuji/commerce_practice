@@ -8,7 +8,7 @@ const nextConfig = {
 		emotion: {
 			sourceMap: true,
 			autoLabel: 'dev-only',
-			labelFormat: '[filename]--[local]'
+			labelFormat: '[local]'
 		}
 	}
 };

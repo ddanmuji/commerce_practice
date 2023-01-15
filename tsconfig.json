@@ -20,13 +20,6 @@
 		},
 		"types": ["@emotion/react/types/css-prop"]
 	},
-	"include": [
-		"next-env.d.ts",
-		"**/*.ts",
-		"**/*.tsx",
-		"next-sitemap.config.js",
-		"next-sitemap.config.js",
-		"src/components/.gitkeep"
-	],
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
 	"exclude": ["node_modules"]
 }
