@@ -25,7 +25,8 @@
 		"**/*.ts",
 		"**/*.tsx",
 		"next-sitemap.config.js",
-		"next-sitemap.config.js"
+		"next-sitemap.config.js",
+		"src/components/.gitkeep"
 	],
 	"exclude": ["node_modules"]
 }
